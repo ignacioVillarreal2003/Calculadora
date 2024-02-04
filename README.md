@@ -1,9 +1,9 @@
 # PyCalculator
 
-## Desarrollo
+## Descripción
 Esta calculadora es una aplicación simple desarrollada en Python utilizando la biblioteca Tkinter. Proporciona una interfaz gráfica de usuario para realizar operaciones matemáticas básicas, como suma, resta, multiplicación y división.
 
-## Instalacion
+## Instalación
 1- Clonar el Repositorio: 
 
 ```

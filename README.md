@@ -8,7 +8,7 @@ Esta calculadora es una aplicación simple desarrollada en Python utilizando la 
 
 ```
 git clone https://github.com/ignacioVillarreal2003/Calculadora.git 
-cd PyShortURL
+cd PyCalculator
 ```
 
 2- Ejecutar la Aplicación: 
